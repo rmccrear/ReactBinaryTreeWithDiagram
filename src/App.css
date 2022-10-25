@@ -1,0 +1,7 @@
+@import-normalize; 
+
+main {
+  text-align: center;
+  vertical-align: center;
+  color: red;
+}
